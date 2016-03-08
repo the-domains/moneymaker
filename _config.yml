@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.42732320479117536
+  lightness: 0.45177214799491194
+  rhythmicContrast: 0.40086293837917464
+  saturation: 0.05829573810739297
+cta: {}
+layout_spectrum: 0.9325629953050714
+name: money
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.5507867750086851
